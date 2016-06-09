@@ -1,6 +1,6 @@
 # Xamarin ViewPager sample
 
-An example on how to use ViewPager and fixed Tabs on Xamarin Android
+An example on how to use ViewPager with fixed tabs on Xamarin Android
 
 ### Credits
 
